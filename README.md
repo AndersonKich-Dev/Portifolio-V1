@@ -1,57 +1,48 @@
 ## 🧧 About
 
-**Ecoleta** é uma aplicação desenvolvida durante a **Next Level Week 1.0** que tem como objetivo facilitar o encontro de coletores de resíduos nas suas proximidades. O Ecoleta serve como um Marketplace, uma conexão entre empresas ou entidade que coletam resíduos, à pessoas que precisam fazer descarte dos resíduos e assim contribuir com
-um planeta mais saudavel! 🌍
+**Portifolio** é uma aplicação que desenvolvi com o intuito de mostar os meus conhecimentos, projetos e experiências que ja tive, e estou deixando ele aqui disponivel 
+para quem quizer utilizar como o seu portifolio pessoal, abaixo vou deixar as instruções de como utilizar o template.
+A aplicação é totalmente responsiva, tem o modo dark para quem gosta, existe um arquivo que popula o app e o mesmo se adapta a suas informações, 
+desta maneira não é preciso entender muito de programação para poder utilizalo.
 
 ## 🔨 Tools
 
-- [Node](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [SQLite](https://www.sqlite.org/index.html)
+- [Styled-components](https://styled-components.com/)
 
-## 🚀 How Contribute
+## 🚀 How to use
+
 
 ```bash
 # Clone o projeto.
 
-$ git clone https://github.com/AndersonKich32/Projeto-Ecoleta-NLW-01
+$ git clone https://github.com/AndersonKich-Dev/Portifolio-V1
 
-```
 
 ```bash
 # Entre no diretório da aplicação.
 
-$ cd Projeto-Ecoleta-NLW-01
-
+$ cd Portifolio-V1
+$ E então execute  o seguinte codigo no prompt, " npm install "
 ```
 
-## 🚀 Running the Back End (server)
-
-```bash
-# Instale as dependências, usando yarn.
-
- $ yarn
- $ npx knex migrate:latest
- $ npx knex seed:run
- $ yarn dev
-
- ```
-
-## 🎥📀 Running the web application (Front End)
+## 🎥📀 Running the web application (React js)
 
  ```bash
- # Entre na pasta frontend e execute o seguinte comando.
+ # Utilizando o vscode basta digitar um dos comando abaixo.
 
  $ yarn
  $ yarn start
 
  ```
 
-## 📱 📀 Running the mobile application
+## 📱 📀 How to enter your data in the portfolio. 
 
  ```bash
  # Entre na pasta mobile e execute o seguinte comando.
 
- $ yarn
- $ expo start
+ # Ao abrir a aplicação no vscode va até a pasta Profile/user.js
+ # Dentro desse arquivo já existe um modelo de como preencher suas informações, basta seguir o modelo e vai dar tudo certo.
+ # Dentro do arquivo na parte de projetos você pode colocar uma imagem de fundo da aplicação, mas esta imagem tem que seu uma  URL,
+ caso não saiba como criar uma url de sua imagem, uma sugestão é ir neste endereço  <https://imagekit.io/> criar uma conta e colocar suas imagens lá e ele gera links automaticamente.
+
