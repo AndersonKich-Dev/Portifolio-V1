@@ -1,0 +1,30 @@
+.isactive {
+    color: #81D4FA; /*bd_blue_50*/
+    color: #0797D8; /*bd_blue_200*/
+    color: #00608b; /*bd_blue_400*/
+    color: #00283a; /*bd_blue_500*/
+    color: #03a9f4; /*bd_blue*/
+    color: #232323; /*bd_black*/
+    color: #FFF;    /*with*/
+    color: #B9DAF8; /*text_white_100*/
+    color: #7b959c; /*text_black_100*/
+    color: #00a6f1; /*text_hover*/
+
+}
+
+  /* @media only screen and (min-width: 700px) and (max-width: 1024px){
+         font-size: 0.625rem
+      }
+    
+      @media only screen and (min-width: 0px) and (max-width: 700px){
+        
+      }
+        */
+
+
+
+        /*
+          RiGitRepositoryFill icone repositorio
+        */
+
+       
