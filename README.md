@@ -43,6 +43,6 @@ $ E então execute  o seguinte codigo no prompt, " npm install "
 
  # Ao abrir a aplicação no vscode va até a pasta Profile/user.js
  # Dentro desse arquivo já existe um modelo de como preencher suas informações, basta seguir o modelo e vai dar tudo certo.
- # Dentro do arquivo na parte de projetos você pode colocar uma imagem de fundo da aplicação, mas esta imagem tem que seu uma  URL,
+ # Dentro do arquivo na parte de projetos você pode colocar uma imagem de fundo da aplicação, mas esta imagem tem que ser uma  URL,
  caso não saiba como criar uma url de sua imagem, uma sugestão é ir neste endereço  <https://imagekit.io/> criar uma conta e colocar suas imagens lá e ele gera links automaticamente.
 
